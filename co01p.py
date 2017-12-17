@@ -1,6 +1,6 @@
 print ("hello world!! --david")
-print ("hello world")
+print ("hello wod")
 
 print ("hello world")
-print ("dog cat world")
-print ("hello world")
+print ("dogt world")
+print ("hello rld")
